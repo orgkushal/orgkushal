@@ -7,4 +7,4 @@
 - 📫 How to reach me: Twitter - @orgkushal
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "If I could live anywhere in the world, it would be SpaceX Headquaters."
-- "If you know me then, you know the pain of Python Bite"
+- "If you know me then, you know the pain of Python Bite 🐍"
