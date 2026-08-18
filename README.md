@@ -62,11 +62,12 @@ Most of my work is the unglamorous half of data engineering: something upstream 
 
 ### `~ featured` &nbsp;🚀
 
-<a href="https://github.com/orgkushal/dbt-testpilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=orgkushal&repo=dbt-testpilot&theme=transparent&hide_border=true&title_color=5eead4&icon_color=38bdf8&text_color=c9d1d9" align="right" width="400"/>
-</a>
-
 **[dbt-testpilot](https://github.com/orgkushal/dbt-testpilot)** — `pip install dbt-testpilot`
+
+<a href="https://pypi.org/project/dbt-testpilot/"><img src="https://img.shields.io/pypi/v/dbt-testpilot?style=flat-square&logo=pypi&logoColor=white&label=PyPI&labelColor=0d1117&color=38bdf8" /></a>
+<a href="https://github.com/orgkushal/dbt-testpilot/stargazers"><img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=flat-square&labelColor=0d1117&color=5eead4" /></a>
+<img src="https://img.shields.io/pypi/pyversions/dbt-testpilot?style=flat-square&labelColor=0d1117&color=a78bfa" />
+<img src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" />
 
 A dbt project usually has fewer tests than it should. dbt-testpilot profiles the **real data** in your warehouse and proposes the tests you're missing — then makes you approve them.
 
@@ -75,26 +76,22 @@ A dbt project usually has fewer tests than it should. dbt-testpilot profiles the
 
 `profile → propose → apply → dbt test`, plus `benchmark` and `drift`. DuckDB · SQLite · Postgres. Demonstrated on a ~1M-row run ending `PASS=199 ERROR=0`. *Building a Spark / Databricks adapter for v0.4.*
 
-<br clear="right"/>
-
 <!-- ===================== STATS ===================== -->
 
 ### `~ stats`
 
 <div align="center">
 
-<!-- Self-hosted summary cards (generated into your repo by the Action below — never rate-limits) -->
-<img width="100%" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+<!-- Reliable stat badges — served straight from GitHub/PyPI data, no shared render server to rate-limit -->
+<img src="https://img.shields.io/github/followers/orgkushal?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=38bdf8" alt="followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=for-the-badge&logo=github&label=dbt-testpilot&labelColor=0d1117&color=5eead4" alt="stars" />
+&nbsp;
+<img src="https://img.shields.io/pypi/dm/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20installs%2Fmo&labelColor=0d1117&color=a78bfa" alt="pypi downloads" />
+&nbsp;
+<img src="https://img.shields.io/pypi/v/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=dbt-testpilot&labelColor=0d1117&color=38bdf8" alt="pypi version" />
 
-<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
-<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
-
-<br/>
-
-<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
-<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most used languages" />
-
-<br/>
+<br/><br/>
 
 <img height="180" src="https://streak-stats.demolab.com?user=orgkushal&hide_border=true&background=0D1117&stroke=38BDF8&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
 
