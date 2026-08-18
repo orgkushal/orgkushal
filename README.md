@@ -83,12 +83,20 @@ A dbt project usually has fewer tests than it should. dbt-testpilot profiles the
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=orgkushal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=38BDF8&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orgkushal&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" />
+<!-- Self-hosted summary cards (generated into your repo by the Action below — never rate-limits) -->
+<img width="100%" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+
+<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=orgkushal&hide_border=true&background=0D1117&stroke=38BDF8&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
+<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+<img height="195" src="https://raw.githubusercontent.com/orgkushal/orgkushal/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most used languages" />
+
+<br/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=orgkushal&hide_border=true&background=0D1117&stroke=38BDF8&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
 
 <br/>
 
