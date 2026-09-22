@@ -17,9 +17,9 @@ jobs:
       - name: Render github-metrics.svg
         uses: lowlighter/metrics@latest
         with:
-          # A Personal Access Token makes this reliable — see README setup notes.
-          # (You can swap this for ${{ github.token }} for a zero-setup, reduced-data version.)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Uses the built-in Actions token — no PAT / secret needed.
+          # (For richer stats later, swap to a classic PAT secret with repo + read:user + read:org.)
+          token: ${{ github.token }}
           user: orgkushal
           filename: github-metrics.svg
           template: classic
