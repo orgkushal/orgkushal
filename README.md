@@ -1,24 +1,18 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f766e,100:38bdf8&height=210&section=header&text=Kushal%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Reliability%20Engineer%20%E2%80%94%20I%20keep%20production%20data%20platforms%20alive&descAlignY=58&descSize=16" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://orgkushal.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&height=45&lines=80%2B+Airflow+DAGs+in+production%2C+every+day;I+ship+the+tooling+for+the+failures+I+find;dbt+%C2%B7+Airflow+%C2%B7+Snowflake+%C2%B7+Python;Author+of+dbt-testpilot+%E2%80%94+live+on+PyPI" alt="typing SVG" />
-</a>
+<img src="./assets/header.svg" alt="Kushal Mishra — Data Reliability Engineer" width="100%"/>
 
 <br/>
 
-<a href="https://orgkushal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=38bdf8" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/orgkushal"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
-<a href="https://pypi.org/project/dbt-testpilot/"><img src="https://img.shields.io/badge/PyPI-0d1117?style=for-the-badge&logo=pypi&logoColor=38bdf8" alt="PyPI"/></a>
-<a href="mailto:orgkushal@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=orgkushal&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="views"/>
+<a href="https://orgkushal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=a78bfa" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/orgkushal"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/></a>
+<a href="https://pypi.org/project/dbt-testpilot/"><img src="https://img.shields.io/badge/PyPI-0d1117?style=for-the-badge&logo=pypi&logoColor=a78bfa" alt="PyPI"/></a>
+<a href="mailto:orgkushal@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email"/></a>
 
 </div>
 
-<!-- ===================== WHOAMI ===================== -->
+<!-- ============================ WHOAMI ============================ -->
 
 ### `~ whoami`
 
@@ -28,13 +22,13 @@ Most of my work is the unglamorous half of data engineering: something upstream 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/80%2B_DAGs-daily-5eead4?style=for-the-badge&labelColor=0d1117" />&nbsp;
-<img src="https://img.shields.io/badge/4–5_failures-per_week-38bdf8?style=for-the-badge&labelColor=0d1117" />&nbsp;
-<img src="https://img.shields.io/badge/alert_→_green-4–6h_MTTR-a78bfa?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/80%2B_DAGs-daily-818cf8?style=for-the-badge&labelColor=0d1117" alt="80+ DAGs"/>&nbsp;
+<img src="https://img.shields.io/badge/4–5_failures-per_week-a78bfa?style=for-the-badge&labelColor=0d1117" alt="failures/week"/>&nbsp;
+<img src="https://img.shields.io/badge/alert_→_green-4–6h_MTTR-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="MTTR"/>
 
 </div>
 
-<!-- ===================== TECH ===================== -->
+<!-- ============================ TOOLBOX ============================ -->
 
 ### `~ toolbox`
 
@@ -54,59 +48,63 @@ Most of my work is the unglamorous half of data engineering: something upstream 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI_packaging-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LLM_APIs-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/CLI_design-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Certified** &nbsp;·&nbsp; AWS ML Engineer Associate &nbsp;·&nbsp; Databricks Data Engineer Associate &nbsp;·&nbsp; SnowPro Core &nbsp;·&nbsp; HackerRank SQL (Advanced)
 
-<!-- ===================== FEATURED ===================== -->
+<!-- ============================ FEATURED ============================ -->
 
-### `~ featured` &nbsp;🚀
+### `~ featured`
 
-**[dbt-testpilot](https://github.com/orgkushal/dbt-testpilot)** — `pip install dbt-testpilot`
+#### 🛠️ [dbt-testpilot](https://github.com/orgkushal/dbt-testpilot) &nbsp;·&nbsp; `pip install dbt-testpilot`
 
-<a href="https://pypi.org/project/dbt-testpilot/"><img src="https://img.shields.io/pypi/v/dbt-testpilot?style=flat-square&logo=pypi&logoColor=white&label=PyPI&labelColor=0d1117&color=38bdf8" /></a>
-<a href="https://github.com/orgkushal/dbt-testpilot/stargazers"><img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=flat-square&labelColor=0d1117&color=5eead4" /></a>
-<img src="https://img.shields.io/pypi/pyversions/dbt-testpilot?style=flat-square&labelColor=0d1117&color=a78bfa" />
-<img src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" />
+<a href="https://pypi.org/project/dbt-testpilot/"><img src="https://img.shields.io/pypi/v/dbt-testpilot?style=flat-square&logo=pypi&logoColor=white&label=PyPI&labelColor=0d1117&color=818cf8" alt="pypi"/></a>
+<a href="https://github.com/orgkushal/dbt-testpilot/stargazers"><img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=flat-square&labelColor=0d1117&color=a78bfa" alt="stars"/></a>
+<img src="https://img.shields.io/pypi/pyversions/dbt-testpilot?style=flat-square&labelColor=0d1117&color=8b5cf6" alt="python"/>
+<img src="https://img.shields.io/badge/license-MIT-6366f1?style=flat-square" alt="license"/>
 
-A dbt project usually has fewer tests than it should. dbt-testpilot profiles the **real data** in your warehouse and proposes the tests you're missing — then makes you approve them.
+Profiles the **real data** in your dbt warehouse and proposes the tests you're missing — heuristics-first, LLM-augmented, and every proposal is verified against your data before it's written, so `dbt test` stays green. `profile → propose → apply`, plus `benchmark` and `drift`. DuckDB · SQLite · Postgres.
 
-- **Heuristics before the LLM** — deterministic rules produce the obvious tests, so it works with no API key. The LLM layer adds rationale, cross-table relationships, and custom tests on top.
-- **Verify before write** — every approved test runs against real data and is only written if it passes, so your suite stays green and a failing test is always a real finding.
+#### 🤖 [iitm-study-buddy](https://github.com/orgkushal/iitm-study-buddy) &nbsp;·&nbsp; RAG chatbot over course material
 
-`profile → propose → apply → dbt test`, plus `benchmark` and `drift`. DuckDB · SQLite · Postgres. Demonstrated on a ~1M-row run ending `PASS=199 ERROR=0`. *Building a Spark / Databricks adapter for v0.4.*
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" alt="flask"/>
+<img src="https://img.shields.io/badge/ChromaDB-8b5cf6?style=flat-square" alt="chromadb"/>
+<img src="https://img.shields.io/badge/Gemini-6366f1?style=flat-square&logo=googlegemini&logoColor=white" alt="gemini"/>
 
-<!-- ===================== STATS ===================== -->
+Full-stack course portal with a retrieval-augmented "Study Buddy" — React + Flask, JWT auth and role-based dashboards, answers grounded in lecture transcripts via ChromaDB + `all-MiniLM-L6-v2` embeddings and Google Gemini.
+
+#### 📈 [structure-break](https://github.com/orgkushal/structure-break) &nbsp;·&nbsp; time-series ML (CrunchDAO / ADIA Lab)
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn"/>
+<img src="https://img.shields.io/badge/RandomForest-a78bfa?style=flat-square" alt="model"/>
+<img src="https://img.shields.io/badge/ROC_AUC-0.678-818cf8?style=flat-square" alt="score"/>
+
+Structural-break detection across ~10k series (23.7M rows): pre/post-boundary statistical features → class-balanced Random Forest. Honest baseline with a documented path to change-point features and gradient boosting.
+
+<!-- ============================ STATS ============================ -->
 
 ### `~ stats`
 
 <div align="center">
 
-<!-- Reliable stat badges — served straight from GitHub/PyPI data, no shared render server to rate-limit -->
-<img src="https://img.shields.io/github/followers/orgkushal?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=38bdf8" alt="followers" />
+<img src="https://img.shields.io/github/followers/orgkushal?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=818cf8" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=for-the-badge&logo=github&label=dbt-testpilot&labelColor=0d1117&color=5eead4" alt="stars" />
+<img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=for-the-badge&logo=github&label=dbt-testpilot%20stars&labelColor=0d1117&color=a78bfa" alt="stars"/>
 &nbsp;
-<img src="https://img.shields.io/pypi/dm/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20installs%2Fmo&labelColor=0d1117&color=a78bfa" alt="pypi downloads" />
-&nbsp;
-<img src="https://img.shields.io/pypi/v/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=dbt-testpilot&labelColor=0d1117&color=38bdf8" alt="pypi version" />
+<img src="https://img.shields.io/pypi/dm/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20installs%2Fmo&labelColor=0d1117&color=8b5cf6" alt="downloads"/>
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=orgkushal&hide_border=true&background=0D1117&stroke=38BDF8&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" />
+<!-- Live stats card — generated by the metrics Action onto the `metrics` branch (see .github/workflows/metrics.yml) -->
+<img src="https://raw.githubusercontent.com/orgkushal/orgkushal/metrics/github-metrics.svg" alt="GitHub metrics" width="100%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=orgkushal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-
-<!-- Contribution-snake (generated by the Action below) -->
+<!-- Contribution snake — generated by the snake Action onto the output branch -->
 <img src="https://raw.githubusercontent.com/orgkushal/orgkushal/output/snake.svg" alt="contribution snake" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orgkushal&bg_color=0d1117&color=5eead4&line=38bdf8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" width="100%"/>
 
 </div>
 
-<!-- ===================== NOW ===================== -->
+<!-- ============================ NOW ============================ -->
 
 ### `~ now`
 
@@ -114,10 +112,10 @@ A dbt project usually has fewer tests than it should. dbt-testpilot profiles the
 - 🧪 Shipping **dbt-testpilot v0.4** (Spark / Databricks adapter)
 - 📫 Reach me at **orgkushal@gmail.com**
 
+<!-- ============================ FOOTER ============================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:0f766e,100:0d1117&height=120&section=footer" width="100%"/>
-
-<sub>“The unglamorous half of data engineering — done well.”</sub>
+<img src="./assets/footer.svg" alt="thanks for scrolling" width="100%"/>
 
 </div>

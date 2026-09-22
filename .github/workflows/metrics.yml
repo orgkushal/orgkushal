@@ -1,0 +1,37 @@
+name: Generate Metrics Card
+
+on:
+  schedule:
+    - cron: "30 6 * * *"      # once a day
+  workflow_dispatch:           # run manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Render github-metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          # A Personal Access Token makes this reliable — see README setup notes.
+          # (You can swap this for ${{ github.token }} for a zero-setup, reduced-data version.)
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: orgkushal
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_padding: 6%, 6%
+
+          # Commit the card to its own branch so main never churns
+          committer_branch: metrics
+          committer_message: "chore: refresh metrics card"
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: 818cf8, a78bfa, 8b5cf6, 6366f1, c4b5fd, 4f46e5, 7c3aed, 64748b
