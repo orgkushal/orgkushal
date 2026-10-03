@@ -59,7 +59,6 @@ Most of my work is the unglamorous half of data engineering: something upstream 
 #### 🛠️ [dbt-testpilot](https://github.com/orgkushal/dbt-testpilot) &nbsp;·&nbsp; `pip install dbt-testpilot`
 
 <a href="https://pypi.org/project/dbt-testpilot/"><img src="https://img.shields.io/pypi/v/dbt-testpilot?style=flat-square&logo=pypi&logoColor=white&label=PyPI&labelColor=0d1117&color=818cf8" alt="pypi"/></a>
-<a href="https://github.com/orgkushal/dbt-testpilot/stargazers"><img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=flat-square&labelColor=0d1117&color=a78bfa" alt="stars"/></a>
 <img src="https://img.shields.io/pypi/pyversions/dbt-testpilot?style=flat-square&labelColor=0d1117&color=8b5cf6" alt="python"/>
 <img src="https://img.shields.io/badge/license-MIT-6366f1?style=flat-square" alt="license"/>
 
@@ -90,21 +89,11 @@ Structural-break detection across ~10k series (23.7M rows): pre/post-boundary st
 
 <img src="https://img.shields.io/github/followers/orgkushal?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=818cf8" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/orgkushal?style=for-the-badge&logo=github&label=Total%20stars&labelColor=0d1117&color=a78bfa" alt="total stars"/>
+<img src="https://img.shields.io/pypi/dm/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20installs%2Fmo&labelColor=0d1117&color=a78bfa" alt="downloads"/>
 &nbsp;
-<img src="https://img.shields.io/pypi/dm/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20installs%2Fmo&labelColor=0d1117&color=8b5cf6" alt="downloads"/>
+<img src="https://img.shields.io/pypi/v/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=dbt-testpilot&labelColor=0d1117&color=8b5cf6" alt="pypi version"/>
 &nbsp;
-<img src="https://img.shields.io/pypi/v/dbt-testpilot?style=for-the-badge&logo=pypi&logoColor=white&label=dbt-testpilot&labelColor=0d1117&color=6366f1" alt="pypi version"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/stars/orgkushal/dbt-testpilot?style=flat-square&logo=github&label=dbt-testpilot&labelColor=0d1117&color=818cf8" alt="dbt-testpilot stars"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/orgkushal/iitm-study-buddy?style=flat-square&logo=github&label=iitm-study-buddy&labelColor=0d1117&color=a78bfa" alt="iitm-study-buddy stars"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/orgkushal/structure-break?style=flat-square&logo=github&label=structure-break&labelColor=0d1117&color=8b5cf6" alt="structure-break stars"/>
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/orgkushal/dbt-testpilot?style=flat-square&label=last%20commit&labelColor=0d1117&color=6366f1" alt="last commit"/>
+<img src="https://img.shields.io/github/last-commit/orgkushal/dbt-testpilot?style=for-the-badge&label=last%20commit&labelColor=0d1117&color=6366f1" alt="last commit"/>
 
 <br/><br/>
 
